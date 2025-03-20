@@ -12,3 +12,18 @@ U:\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
 U:\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 U:\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 U:\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

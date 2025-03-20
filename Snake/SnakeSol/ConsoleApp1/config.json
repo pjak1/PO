@@ -1,0 +1,7 @@
+{
+  "ScreenWidth": 50,
+  "ScreenHeight": 50,
+  "SnakeHeadColor": "Red",
+  "SnakeBodyColor": "Green",
+  "BerryColor": "Cyan"
+}
