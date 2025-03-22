@@ -27,3 +27,4 @@ E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1
 E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 E:\UTB\PO 2025\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+U:\PO\Snake\SnakeSol\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
